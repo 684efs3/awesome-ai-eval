@@ -256,6 +256,7 @@ Evaluation is how you know if your AI actually works (and not hallucinating). Th
 - ![](https://img.shields.io/github/stars/openai/evals?style=social&label=github.com) [**OpenAI Evals Registry**](https://github.com/openai/evals/tree/main/evals/elsuite) - Community suites and scores covering accuracy, safety, and instruction following.
 - ![](https://img.shields.io/badge/scale.com-active-blue?style=social) [**Scale SEAL Leaderboard**](https://scale.com/leaderboard) - Expert-rated leaderboard covering reasoning, coding, and safety via SEAL evaluations.
 
+- ![](https://img.shields.io/badge/modelbenchmark.io-active-blue?style=social) [**ModelBenchmark**](https://modelbenchmark.io) - Independent AI rankings: 16 public benchmarks for 202 models, plus prices, context windows, and release dates for 2,406 models.
 ---
 
 ## Resources
